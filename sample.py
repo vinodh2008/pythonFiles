@@ -40,7 +40,7 @@ while(1):
         break
         
     else :
-        print("password lenght is greater than 8 and less than 16 ")
+        print("password lenght is greater than 8 and less than equal to  16 ")
         break
 
             
